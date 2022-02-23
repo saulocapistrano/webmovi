@@ -1,2 +1,2 @@
 # webmovi
-Exemplro de site com html5 e css3 
+Exemplro de site do setor imobiliário com html5 e css3 
